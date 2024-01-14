@@ -1,0 +1,1 @@
+This is a small website for a local restaurant that takes customer order information and stores that information into a table in a database using PHPMyAdmin. Each order is recorded and given a unique id, and is then totaled at the end. A menu is given with multiple options to make the order. 
